@@ -1,0 +1,37 @@
+[
+    {
+        "Ten": "Cleverland",
+        "Tuoi": 19,
+        "Gioi tinh": "Nam",
+        "Lop hoc": "B",
+        "Diem": 8
+    },
+    {
+        "Ten": "Chrits",
+        "Tuoi": 17,
+        "Gioi tinh": "Nu",
+        "Lop hoc": "D",
+        "Diem": 8
+    },
+    {
+        "Ten": "Peter Griffin",
+        "Tuoi": 22,
+        "Gioi tinh": "Nu",
+        "Lop hoc": "B",
+        "Diem": 2
+    },
+    {
+        "Ten": "Van Quan",
+        "Tuoi": 21,
+        "Gioi tinh": "Nam",
+        "Lop hoc": "D",
+        "Diem": 2
+    },
+    {
+        "Ten": "Lois",
+        "Tuoi": 21,
+        "Gioi tinh": "Nam",
+        "Lop hoc": "B",
+        "Diem": 6
+    }
+]

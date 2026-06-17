@@ -1,0 +1,27 @@
+[
+    {
+        "info": "Minh Quan",
+        "email": "quan02077@gmail.com",
+        "password": "minhquan2006",
+        "tasks": [
+            {
+                "task": "Ngủ",
+                "priority": "Cao",
+                "deadline": "13/12/2025",
+                "done": 0
+            },
+            {
+                "task": "Gym",
+                "priority": "Trung bình",
+                "deadline": "13/12/2025",
+                "done": 0
+            },
+            {
+                "task": "Học bài",
+                "priority": "Cao",
+                "deadline": "14/12/2025",
+                "done": 0
+            }
+        ]
+    }
+]
